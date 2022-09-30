@@ -1,0 +1,23 @@
+form{
+    background-color:rgba(200, 215, 241, 0.836);
+}
+
+input{
+    background-color: rgb(253, 213, 220);
+}
+
+form > * {
+    display: block;
+}
+
+textarea{
+    background-color: rgb(253, 213, 220);
+}
+
+select{
+    background-color: rgb(253, 213, 220);
+}
+
+button{
+    background-color: rgb(253, 213, 220);
+}
